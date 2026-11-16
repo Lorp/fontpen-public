@@ -10,6 +10,13 @@ It’s made for:
 
 Changes are seen live by everyone working on a font or deck, and AI assistants can help too, in FontPen’s chat or over MCP.
 
+FontPen also brings together what type designers, educators and font engineers turn to, in one place you can search:
+
+* **the [Library](https://fontpen.com/library):** specifications, books, articles and videos, by topic, from type design and typography to variable fonts and hinting
+* **every Unicode character**, with its names, keywords and the fonts that have it, and design guides for characters, character sets and scripts
+* **font checking** with Fontspector, each check explained
+* **decks** to teach and present with, showing fonts as they’re made
+
 FontPen’s source code isn’t public. This repository is where you can tell us about problems and ideas.
 
 ## Raise an issue
